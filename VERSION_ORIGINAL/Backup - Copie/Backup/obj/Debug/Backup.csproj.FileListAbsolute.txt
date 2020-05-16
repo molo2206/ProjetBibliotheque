@@ -1,0 +1,353 @@
+c:\users\moloisrael\documents\visual studio 2015\Projects\Backup\Backup\bin\Debug\Backup.exe.config
+c:\users\moloisrael\documents\visual studio 2015\Projects\Backup\Backup\bin\Debug\Backup.exe
+c:\users\moloisrael\documents\visual studio 2015\Projects\Backup\Backup\bin\Debug\Backup.pdb
+c:\users\moloisrael\documents\visual studio 2015\Projects\Backup\Backup\obj\Debug\Backup.csprojResolveAssemblyReference.cache
+c:\users\moloisrael\documents\visual studio 2015\Projects\Backup\Backup\obj\Debug\Backup.Properties.Resources.resources
+c:\users\moloisrael\documents\visual studio 2015\Projects\Backup\Backup\obj\Debug\Backup.csproj.GenerateResource.Cache
+c:\users\moloisrael\documents\visual studio 2015\Projects\Backup\Backup\obj\Debug\Backup.exe
+c:\users\moloisrael\documents\visual studio 2015\Projects\Backup\Backup\obj\Debug\Backup.pdb
+C:\Users\MOLOISRAEL\Documents\Visual Studio 2015\Projects\Backup\Backup\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MOLOISRAEL\Documents\Visual Studio 2015\Projects\Backup\Backup\obj\Debug\Backup.Form2.resources
+Z:\vendor\Backup\Backup\bin\Debug\Backup.exe.config
+Z:\vendor\Backup\Backup\obj\Debug\Backup.exe
+Z:\vendor\Backup\Backup\obj\Debug\Backup.pdb
+Z:\vendor\Backup\Backup\bin\Debug\Backup.exe
+Z:\vendor\Backup\Backup\bin\Debug\Backup.pdb
+Z:\vendor\Backup\Backup\obj\Debug\Backup.csprojResolveAssemblyReference.cache
+Z:\vendor\Backup\Backup\obj\Debug\Backup.Form2.resources
+Z:\vendor\Backup\Backup\obj\Debug\Backup.Properties.Resources.resources
+Z:\vendor\Backup\Backup\obj\Debug\Backup.csproj.GenerateResource.Cache
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\bin\Debug\Backup.exe.config
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.exe
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.pdb
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\bin\Debug\Backup.exe
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\bin\Debug\Backup.pdb
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Properties.Resources.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.csproj.GenerateResource.cache
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Form1.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.FrmPrincipale.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmClient.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.DashBord.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmAuteur.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmAgent.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmModif_Photo.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmUtilisateur.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmOuvrage.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmFournisseur.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmApprovision.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmApprovisionnement.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmEmprunt.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmRetour.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmRapport_Emprunt.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmAutres.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmAjout.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.csprojResolveAssemblyReference.cache
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.Frmlogin.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.Fr_Configurqtion.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Frmprograss.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.Frmnotification.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmEchec.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmMessage.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmModif.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmVide.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup\Backup\obj\Debug\Backup.Formulaire.FrmIncorrecte.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\Backup.exe.config
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.exe
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.pdb
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\Backup.exe
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\Backup.pdb
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.DashBord.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Form1.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.Fr_Configurqtion.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmAgent.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmAjout.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmApprovision.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmApprovisionnement.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmAuteur.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmAutres.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmClient.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmEchec.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmEmprunt.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmFournisseur.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmIncorrecte.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.Frmlogin.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmMessage.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmModif.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmModif_Photo.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.Frmnotification.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmOuvrage.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.FrmPrincipale.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmRapport_Emprunt.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmRetour.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmUtilisateur.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Frmprograss.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmVide.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Properties.Resources.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.csproj.GenerateResource.Cache
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.Formulaire.FrmLoginUtilisateur.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.Shared.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\stdole.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\FlashControlV71.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\bin\Debug\ShockwaveFlashObjects.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2)\Backup\obj\Debug\Backup.csprojResolveAssemblyReference.cache
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\Backup.exe.config
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.exe
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.pdb
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\Backup.exe
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\Backup.pdb
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.Shared.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\FlashControlV71.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\ShockwaveFlashObjects.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\stdole.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.DashBord.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Form1.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.Fr_Configurqtion.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmAgent.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmAjout.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmApprovision.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmApprovisionnement.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmAuteur.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmAutres.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmClient.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmEchec.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmEmprunt.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmFournisseur.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmIncorrecte.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.Frmlogin.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmLoginUtilisateur.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmMessage.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmModif.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmModif_Photo.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.Frmnotification.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmOuvrage.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.FrmPrincipale.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmRapport_Emprunt.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmRetour.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmUtilisateur.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Frmprograss.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Formulaire.FrmVide.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.Properties.Resources.resources
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.csproj.GenerateResource.Cache
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.csprojResolveAssemblyReference.cache
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\Antlr3.Runtime.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\BouncyCastle.Crypto.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\MySql.Data.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\MySql.Data.Entity.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\MySql.Data.EntityFramework.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\MySql.Web.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\bin\Debug\Renci.SshNet.dll
+D:\MES PROJETS\MUPAD PRO 3.1.1\Backup - Copie (2) - Copie\Backup\obj\Debug\Backup.csproj.Backup.exe.config
+E:\My projets\C#\Backup\Backup\bin\Debug\Backup.exe.config
+E:\My projets\C#\Backup\Backup\bin\Debug\Backup.exe
+E:\My projets\C#\Backup\Backup\bin\Debug\Backup.pdb
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.Shared.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\FlashControlV71.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\ShockwaveFlashObjects.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\My projets\C#\Backup\Backup\bin\Debug\stdole.dll
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.csprojResolveAssemblyReference.cache
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.csproj.Backup.exe.config
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.DashBord.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Form1.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.Fr_Configurqtion.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmAgent.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmAjout.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmApprovision.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmApprovisionnement.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmAuteur.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmAutres.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmClient.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmEchec.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmEmprunt.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmFournisseur.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmIncorrecte.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.Frmlogin.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmLoginUtilisateur.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmMessage.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmModif.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmModif_Photo.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.Frmnotification.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmOuvrage.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.FrmPrincipale.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmRapport_Emprunt.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmRetour.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmUtilisateur.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Frmprograss.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Formulaire.FrmVide.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Properties.Resources.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.csproj.GenerateResource.Cache
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.exe
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.pdb
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Rapport.FrmRapportGeneral.resources
+E:\My projets\C#\Backup\Backup\obj\Debug\Backup.Rapport.FrmRpEmprunt.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\Backup.exe.config
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.exe
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.pdb
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\Backup.exe
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\Backup.pdb
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\Antlr3.Runtime.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\BouncyCastle.Crypto.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.Shared.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\FlashControlV71.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\MySql.Data.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\MySql.Data.Entity.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\MySql.Data.EntityFramework.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\MySql.Web.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\Renci.SshNet.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\ShockwaveFlashObjects.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\bin\Debug\stdole.dll
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.csprojResolveAssemblyReference.cache
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.csproj.Backup.exe.config
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.DashBord.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Form1.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.Fr_Configurqtion.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmAgent.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmAjout.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmApprovision.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmApprovisionnement.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmAuteur.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmAutres.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmClient.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmEchec.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmEmprunt.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmFournisseur.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmIncorrecte.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.Frmlogin.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmLoginUtilisateur.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmMessage.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmModif.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmModif_Photo.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.Frmnotification.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmOuvrage.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.FrmPrincipale.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmRapport_Emprunt.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmRetour.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmUtilisateur.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Frmprograss.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Formulaire.FrmVide.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Properties.Resources.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Rapport.FrmRapportGeneral.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Rapport.FrmRpEmprunt.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.csproj.GenerateResource.Cache
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Rapport.FrmApprovisionnement.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Rapport.Form1.resources
+D:\MES PROJETS\Nuxt\Backup\Backup\obj\Debug\Backup.Rapport.FrmFiche_Appro.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\Backup.exe.config
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.exe
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.pdb
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.csprojResolveAssemblyReference.cache
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.csproj.Backup.exe.config
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.DashBord.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Form1.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.Fr_Configurqtion.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmAgent.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmAjout.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmApprovision.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmApprovisionnement.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmAuteur.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmAutres.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmClient.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmEchec.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmEmprunt.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmFournisseur.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmIncorrecte.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.Frmlogin.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmLoginUtilisateur.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmMessage.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmModif.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmModif_Photo.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.Frmnotification.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmOuvrage.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.FrmPrincipale.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmRapport_Emprunt.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmRetour.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmUtilisateur.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Frmprograss.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Formulaire.FrmVide.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Properties.Resources.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Rapport.Form1.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Rapport.FrmApprovisionnement.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Rapport.FrmFiche_Appro.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Rapport.FrmRapportGeneral.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.Rapport.FrmRpEmprunt.resources
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\obj\Debug\Backup.csproj.GenerateResource.Cache
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\Backup.exe
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\Backup.pdb
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.Shared.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\FlashControlV71.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\ShockwaveFlashObjects.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\MES PROJETS\Toutes les versions bibliotheque\VERSION_ORIGINAL\Backup - Copie\Backup\bin\Debug\stdole.dll

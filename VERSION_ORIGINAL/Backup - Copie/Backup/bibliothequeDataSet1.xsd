@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="bibliothequeDataSet1" targetNamespace="http://tempuri.org/bibliothequeDataSet1.xsd" xmlns:mstns="http://tempuri.org/bibliothequeDataSet1.xsd" xmlns="http://tempuri.org/bibliothequeDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="bibliothequeConnectionString3" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="bibliothequeConnectionString3 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Backup.Properties.Settings.GlobalReference.Default.bibliothequeConnectionString3" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Rapport_EmpruntTableAdapter" GeneratorDataComponentClassName="Rapport_EmpruntTableAdapter" Name="Rapport_Emprunt" UserDataComponentName="Rapport_EmpruntTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="bibliothequeConnectionString3 (Settings)" DbObjectName="bibliotheque.dbo.Rapport_Emprunt" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT DESIGNATION, Date_, Motif, Empunteur, Ouvrage, Auteur, Qte, barcode FROM dbo.Rapport_Emprunt</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="DESIGNATION" DataSetColumn="DESIGNATION" />
+              <Mapping SourceColumn="Date_" DataSetColumn="Date_" />
+              <Mapping SourceColumn="Motif" DataSetColumn="Motif" />
+              <Mapping SourceColumn="Empunteur" DataSetColumn="Empunteur" />
+              <Mapping SourceColumn="Ouvrage" DataSetColumn="Ouvrage" />
+              <Mapping SourceColumn="Auteur" DataSetColumn="Auteur" />
+              <Mapping SourceColumn="Qte" DataSetColumn="Qte" />
+              <Mapping SourceColumn="barcode" DataSetColumn="barcode" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="bibliothequeDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="bibliothequeDataSet1" msprop:Generator_UserDSName="bibliothequeDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Rapport_Emprunt" msprop:Generator_TableClassName="Rapport_EmpruntDataTable" msprop:Generator_TableVarName="tableRapport_Emprunt" msprop:Generator_TablePropName="Rapport_Emprunt" msprop:Generator_RowDeletingName="Rapport_EmpruntRowDeleting" msprop:Generator_RowChangingName="Rapport_EmpruntRowChanging" msprop:Generator_RowEvHandlerName="Rapport_EmpruntRowChangeEventHandler" msprop:Generator_RowDeletedName="Rapport_EmpruntRowDeleted" msprop:Generator_UserTableName="Rapport_Emprunt" msprop:Generator_RowChangedName="Rapport_EmpruntRowChanged" msprop:Generator_RowEvArgName="Rapport_EmpruntRowChangeEvent" msprop:Generator_RowClassName="Rapport_EmpruntRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DESIGNATION" msprop:Generator_ColumnVarNameInTable="columnDESIGNATION" msprop:Generator_ColumnPropNameInRow="DESIGNATION" msprop:Generator_ColumnPropNameInTable="DESIGNATIONColumn" msprop:Generator_UserColumnName="DESIGNATION" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Date_" msprop:Generator_ColumnVarNameInTable="columnDate_" msprop:Generator_ColumnPropNameInRow="Date_" msprop:Generator_ColumnPropNameInTable="Date_Column" msprop:Generator_UserColumnName="Date_" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Motif" msprop:Generator_ColumnVarNameInTable="columnMotif" msprop:Generator_ColumnPropNameInRow="Motif" msprop:Generator_ColumnPropNameInTable="MotifColumn" msprop:Generator_UserColumnName="Motif" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Empunteur" msprop:Generator_ColumnVarNameInTable="columnEmpunteur" msprop:Generator_ColumnPropNameInRow="Empunteur" msprop:Generator_ColumnPropNameInTable="EmpunteurColumn" msprop:Generator_UserColumnName="Empunteur" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Ouvrage" msprop:Generator_ColumnVarNameInTable="columnOuvrage" msprop:Generator_ColumnPropNameInRow="Ouvrage" msprop:Generator_ColumnPropNameInTable="OuvrageColumn" msprop:Generator_UserColumnName="Ouvrage" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Auteur" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnAuteur" msprop:Generator_ColumnPropNameInRow="Auteur" msprop:Generator_ColumnPropNameInTable="AuteurColumn" msprop:Generator_UserColumnName="Auteur" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="101" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Qte" msprop:Generator_ColumnVarNameInTable="columnQte" msprop:Generator_ColumnPropNameInRow="Qte" msprop:Generator_ColumnPropNameInTable="QteColumn" msprop:Generator_UserColumnName="Qte" type="xs:int" minOccurs="0" />
+              <xs:element name="barcode" msprop:Generator_ColumnVarNameInTable="columnbarcode" msprop:Generator_ColumnPropNameInRow="barcode" msprop:Generator_ColumnPropNameInTable="barcodeColumn" msprop:Generator_UserColumnName="barcode" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
